@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+
+pandas → data loading, cleaning, analysis
+
+matplotlib → core visualizations
+
+seaborn → optional styling (safe to include)
