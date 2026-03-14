@@ -5,8 +5,6 @@ This project performs a beginner-friendly data analysis on global COVID-19 data 
 
 The goal of this project is to practice real-world data handling, cleaning, and visualization using a large CSV dataset.
 
----
-
 ## 🎯 Objectives
 - Analyze COVID-19 case trends over time
 - Compare total cases across multiple countries
